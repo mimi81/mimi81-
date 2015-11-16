@@ -1,9 +1,10 @@
 h1 {color:#33ffff;}
 h2 {border-style: ridge;
-    border-width: 18px;
+    border-width: 20px;
 }
 img {width: 500px;}
-body{background-color:#cc66ff;
+.mybackground{background-color:#ffff00
+;
 }
 .purple {
     color:purple;
@@ -11,4 +12,6 @@ body{background-color:#cc66ff;
 .about  {
     color:#62249b;
 }
-  
+  ul li {
+      display: inline-block;
+  }
